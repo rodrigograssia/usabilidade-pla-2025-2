@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <Home title={title} links={link}/>
+      <Home titulo={title} links={link}/>
     </div>
   );
 }
